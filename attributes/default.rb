@@ -1,3 +1,4 @@
 # encoding: UTF-8
 
-default['packages'] = []
+default['install_packages'] = []
+default['upgrade_packages'] = []
